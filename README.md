@@ -1,3 +1,5 @@
+This repo is just following this tutorial...
+
 # Token-Based Authentication with Node
 
 ## Want to learn how to build this project?
@@ -13,3 +15,4 @@ Check out the [blog post](http://mherman.org/blog/2016/10/28/token-based-authent
 1. Seed - `knex seed:run --env development`
 1. Run the development server - `gulp`
 1. Test - `npm test`
+=======
